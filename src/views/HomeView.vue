@@ -15,7 +15,7 @@ onMounted(async () => {
 
 <template>
   <div>
-    <h1>Vue + ASP.NET CI/CD Demo</h1>
+    <h1>Vue + ASP.NET CI/CD Demo! Hello</h1>
     <p>Backend says: {{ message }}</p>
     <p>Hello every one</p>
   </div>
